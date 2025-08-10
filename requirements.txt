@@ -6,7 +6,7 @@ python-docx
 pypdf
 pdfplumber
 openai
-pinecone-client
+pinecone
 sqlalchemy
 psycopg2-binary
 python-dotenv
